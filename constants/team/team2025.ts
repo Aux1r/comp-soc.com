@@ -216,4 +216,32 @@ export const team2025: Committee[] = [
       },
     ],
   },
+  {
+    name: 'Dhyey',
+    surname: 'Mehta',
+    role: Role.JUNIOR_TREASURER,
+    image: 'dhyey-1.jpg',
+    links: [
+      {
+        type: LinkType.LINKEDIN,
+        url: 'https://www.linkedin.com/in/dhyeym/',
+      },
+    ],
+  },
+  {
+    name: 'Kaiwen (Kevin)',
+    surname: 'Wang',
+    role: Role.FIRST_YEAR_REP,
+    image: 'kevin-1.jpg',
+    links: [
+      {
+        type: LinkType.LINKEDIN,
+        url: 'https://www.linkedin.com/in/wangkaiwen',
+      },
+      {
+        type: LinkType.INSTAGRAM,
+        url: 'https://www.instagram.com/kaiwen.wang_',
+      },
+    ],
+  },
 ]
