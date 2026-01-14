@@ -220,7 +220,7 @@ export const team2025: Committee[] = [
     name: 'Dhyey',
     surname: 'Mehta',
     role: Role.JUNIOR_TREASURER,
-    image: 'dhyey-1.jpg',
+    image: 'dhyey-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
@@ -232,7 +232,7 @@ export const team2025: Committee[] = [
     name: 'Kaiwen (Kevin)',
     surname: 'Wang',
     role: Role.FIRST_YEAR_REP,
-    image: 'kevin-1.jpg',
+    image: 'kevin-1.webp',
     links: [
       {
         type: LinkType.LINKEDIN,
