@@ -200,7 +200,7 @@ export const SIGs: SIG[] = [
     },
     backgroundColor: '#3333f5',
     textColor: '#ffffff',
-    websiteURL: 'https://edinburgh-venture-point.webflow.io/',
+    websiteURL: 'https://edinburghventurepoint.com',
     borderColor: '',
     calendarURL:
       '',
